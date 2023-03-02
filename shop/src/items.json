@@ -1,0 +1,633 @@
+[
+    {
+        "id": "1",
+        "title": "Резистор 9.1 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 9.1 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "2",
+        "title": "Резистор 10 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 10 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "3",
+        "title": "Резистор 22 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 22 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "4",
+        "title": "Резистор 47 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 47 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "5",
+        "title": "Резистор 91 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 91 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "6",
+        "title": "Резистор 100 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 100 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "7",
+        "title": "Резистор 150 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 150 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "8",
+        "title": "Резистор 160 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 160 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "9",
+        "title": "Резистор 200 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 200 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "10",
+        "title": "Резистор 220 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 220 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "11",
+        "title": "Резистор 270 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 270 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "12",
+        "title": "Резистор 330 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 330 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "13",
+        "title": "Резистор 470 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 470 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "14",
+        "title": "Резистор 510 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 510 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "15",
+        "title": "Резистор 680 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 680 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "16",
+        "title": "Резистор 750 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 750 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "17",
+        "title": "Резистор 910 Ом",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 910 Ом",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "18",
+        "title": "Резистор 1 КОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 1 КОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "19",
+        "title": "Резистор 2 КОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 2 КОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "20",
+        "title": "Резистор 2.2 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 2.2 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "21",
+        "title": "Резистор 3.3 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 3.3 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "22",
+        "title": "Резистор 4.7 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 4.7 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "23",
+        "title": "Резистор 5.1 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 5.1 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "24",
+        "title": "Резистор 6.8 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 6.8 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "25",
+        "title": "Резистор 9.1 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 9.1 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "26",
+        "title": "Резистор 10 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 10 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "27",
+        "title": "Резистор 20 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 20 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "28",
+        "title": "Резистор 47 КОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 47 КОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "29",
+        "title": "Резистор 51 КОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 51 КОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "30",
+        "title": "Резистор 68 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 68 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "31",
+        "title": "Резистор 100 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 100 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "32",
+        "title": "Резистор 200 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 200 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "33",
+        "title": "Резистор 220 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 220 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "34",
+        "title": "Резистор 300 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 300 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "35",
+        "title": "Резистор 470 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 470 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "36",
+        "title": "Резистор 510 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 510 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "37",
+        "title": "Резистор 680 KОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 680 KОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "38",
+        "title": "Резистор 1 MОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 1 MОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "39",
+        "title": "Резистор 2 MОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 2 MОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "40",
+        "title": "Резистор 10 MОм",
+        "img": "rezistor 025.png",
+        "parametrs1": "Опір 10 MОм",
+        "parametrs2": "Потужність 0.25 Вт",
+        "category": "rezistors",
+        "underCategory": "rezistors_0.25",
+        "prise": "0.50"
+    },
+    {
+        "id": "2001",
+        "title": "Конденсатор 0.1 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 0.1 мкФ.",
+        "parametrs2": "Напруга 50 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2002",
+        "title": "Конденсатор 0.22 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 0.22 мкФ.",
+        "parametrs2": "Напруга 50 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2003",
+        "title": "Конденсатор 0.47 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 0.47 мкФ.",
+        "parametrs2": "Напруга 50 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2004",
+        "title": "Конденсатор 1 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 1 мкФ.",
+        "parametrs2": "Напруга 50 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2005",
+        "title": "Конденсатор 2.2 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 2.2 мкФ.",
+        "parametrs2": "Напруга 50 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2006",
+        "title": "Конденсатор 3.3 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 3.3 мкФ.",
+        "parametrs2": "Напруга 50 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2007",
+        "title": "Конденсатор 4.7 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 4.7 мкФ.",
+        "parametrs2": "Напруга 50 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2008",
+        "title": "Конденсатор 10 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 10 мкФ.",
+        "parametrs2": "Напруга 25 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2009",
+        "title": "Конденсатор 22 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 22 мкФ.",
+        "parametrs2": "Напруга 25 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2010",
+        "title": "Конденсатор 33 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 33 мкФ.",
+        "parametrs2": "Напруга 16 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2011",
+        "title": "Конденсатор 47 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 47 мкФ.",
+        "parametrs2": "Напруга 16 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2012",
+        "title": "Конденсатор 47 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 47 мкФ.",
+        "parametrs2": "Напруга 25 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2013",
+        "title": "Конденсатор 100 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 100 мкФ.",
+        "parametrs2": "Напруга 10 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2014",
+        "title": "Конденсатор 100 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 100 мкФ.",
+        "parametrs2": "Напруга 16 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2015",
+        "title": "Конденсатор 100 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 100 мкФ.",
+        "parametrs2": "Напруга 25 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2016",
+        "title": "Конденсатор 220 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 220 мкФ.",
+        "parametrs2": "Напруга 10 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2017",
+        "title": "Конденсатор 220 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 220 мкФ.",
+        "parametrs2": "Напруга 25 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2018",
+        "title": "Конденсатор 330 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 330 мкФ.",
+        "parametrs2": "Напруга 25 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2019",
+        "title": "Конденсатор 470 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 470 мкФ.",
+        "parametrs2": "Напруга 10 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2020",
+        "title": "Конденсатор 470 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 470 мкФ.",
+        "parametrs2": "Напруга 16 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2021",
+        "title": "Конденсатор 680 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 680 мкФ.",
+        "parametrs2": "Напруга 16 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "2022",
+        "title": "Конденсатор 1000 мкФ",
+        "img": "condensatorElectrolit.png",
+        "parametrs1": "Ємність 1000 мкФ.",
+        "parametrs2": "Напруга 16 В.",
+        "parametrs3": "Тип Електролітний",
+        "category": "condensators",
+        "prise": "5.49"
+    },
+    {
+        "id": "1001",
+        "title": "Транзистор BC547",
+        "img": "tranzistor092.png",
+        "parametrs1": "Полярність PNP.",
+        "parametrs2": "Напруга 50В.",
+        "parametrs3": "Коефіцієнт підсилення 0.447",
+        "parametrs4": "Струм 1А",
+        "category": "tranzistors",
+        "prise": "1.99"
+    }
+]
